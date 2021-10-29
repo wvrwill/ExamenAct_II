@@ -1,0 +1,13 @@
+version: '3'
+servises:
+  servise1:
+    image: ubuntu_e
+  servise2:
+    image: ubuntu_e
+  Servise3:
+    image: ubuntu_e
+  Servise4:
+    image: ubuntu_e
+  Servise5:
+    image: ubuntu_e
+    
